@@ -1,7 +1,8 @@
 Package.describe({
   summary: "A username blacklist",
   version: "1.0.0",
-  name: "servicelocale:username-blacklist"
+  name: "servicelocale:username-blacklist",
+  git: "https://github.com/ServiceLocale/meteor-username-blacklist"
 });
 
 Package.onUse(function(api) {
